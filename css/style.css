@@ -72,7 +72,7 @@ h6 {
      padding: 0 0 10px 0;
      font-weight: normal;
      line-height: normal;
-     color: #111111;
+     color: white;
      margin: 0
 }
 
@@ -504,8 +504,23 @@ width: 100%;
 }
 
 .classified_box {
-     background: #12153c;
      min-height: 453px;
+}
+
+.team1 {
+     background: #ffc000;
+}
+
+.team2 {
+     background: #ffb8a6;
+}
+
+.team3 {
+     background: #6ff2ce;
+}
+
+.team4 {
+     background: #007ffb;
 }
 
 .classified .classified_box figure {
@@ -583,7 +598,7 @@ width: 100%;
 
 .main_form {
      padding: 40px;
- background: #12153c;
+ background: #f2f2f2;
  border-radius: 40px;
 }
 
@@ -767,7 +782,7 @@ width: 100%;
      height: 243px;
      top: -243px;
      background-repeat: no-repeat;
-     background: url(../images/cross_bottom.png);
+     background: url(../images/Montana.png);
      background-size: cover;
 background-position: center;
 left: 0;
